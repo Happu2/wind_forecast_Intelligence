@@ -61,5 +61,3 @@ pip install -r requirements.txt
 pytest
 ```
 
-## AI disclosure
-AI assistance was used to scaffold and draft parts of this project. Review and understand the code before submitting, and disclose AI use as requested by the challenge.
